@@ -1,6 +1,6 @@
-# Group_Lab_Team_21
+# INFO 5100 Group Lab Team 21
 
-INFO 5100 Group Lab Team 21
+Members:
 
-members:
-shrirangesh vedanarayanan
+- Raghu Ram Shantha Rajamani
+- Priyanka Vadivel
